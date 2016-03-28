@@ -1,0 +1,28 @@
+name: TaniqueUSA
+favicon: null
+layout_spectrum: 0.27246860205195844
+typography_spectrum: 0.4792287349700928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3670103868935257
+  lightness: 0.22108019841834903
+  saturation: 0.9811072433367372
+  rhythmicContrast: 0.19212803640402853
+purpose: []
