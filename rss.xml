@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TaniqueUSA]]></title>
         <description><![CDATA[TaniqueUSA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/taniqueusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 22:23:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 22:23:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taniqueusa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10fac111-5ffe-431b-be39-aa3753edb574.jpg">]]></description>
+            <link>https://thegrid.ai/taniqueusa/34027774-8af7-4bfa-86b8-f4f6f85af712/index.html</link>
+            <guid isPermaLink="false">34027774-8af7-4bfa-86b8-f4f6f85af712</guid>
+            <pubDate>Mon, 28 Mar 2016 22:23:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79a8b6cc-d195-4073-80e4-68d393433bd4.jpg">]]></description>
-            <link>undefined77c83a30-30de-48b3-bfad-cead5fdff1d8/index.html</link>
+            <link>https://thegrid.ai/taniqueusa/77c83a30-30de-48b3-bfad-cead5fdff1d8/index.html</link>
             <guid isPermaLink="false">77c83a30-30de-48b3-bfad-cead5fdff1d8</guid>
             <pubDate>Mon, 28 Mar 2016 22:23:28 GMT</pubDate>
         </item>
